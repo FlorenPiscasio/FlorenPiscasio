@@ -8,7 +8,6 @@
   
 - 🤝 I’m looking for help with learning **Coding and Programming**
 
-- 📫 How to reach me **yen.pisca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

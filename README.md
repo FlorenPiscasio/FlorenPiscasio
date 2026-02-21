@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Floren Piscasio</h1>
-<h3 align="center">A 2nd year BS Information Technology Student</h3>
 
 - 🎓 I’m Studying **Computer Programming**
 

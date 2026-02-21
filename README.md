@@ -2,13 +2,13 @@
 
 - 🎓 I’m Studying **Computer Programming**
 
-- 📫 How to reach me **yen.pisca@gmail.com**
-
-- 🤝 I’m looking for help with learning **Coding and Programming**
-
 - 📚 I’m currently learning **Java, HTML, CSS, and JavaScript**
 
 - 🔍 Interested in **Web Developing and Database Management**
+  
+- 🤝 I’m looking for help with learning **Coding and Programming**
+
+- 📫 How to reach me **yen.pisca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

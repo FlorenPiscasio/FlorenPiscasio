@@ -7,6 +7,8 @@
 - 🔍 Interested in **Web Developing and Database Management**
   
 - 🤝 I’m looking for help with learning **Coding and Programming**
+  
+- 🛜 Has basic Knowledge on **Routing and Switching(Network)** 
 
 
 <!--h3 align="left">Connect with me:</h3>
